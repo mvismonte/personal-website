@@ -8,7 +8,7 @@ body {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
   body {
-    background: url(../img/background@2x.png) repeat;
+    background: url(../img/background@2X.png) repeat;
   }
 }
 
