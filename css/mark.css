@@ -1,0 +1,29 @@
+/*
+*/
+
+body {
+  background: url(../img/background.png) repeat;
+  /*background-size: 100px 100px;*/
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+  body {
+    background: url(../img/background@2x.png) repeat;
+  }
+}
+
+#main {
+  margin-top: 7%;
+}
+.title {
+  font-size: 65px;
+}
+.ucla-blue {
+  color: #536895;
+}
+.ucla-gold {
+  color: #FFB300;
+}
+.matrix-green {
+  color: #00CC00;
+}
