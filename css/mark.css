@@ -1,5 +1,11 @@
-/*
-*/
+/* Copyright 2013
+ * Author: Mark Vismonte
+ * Date: 06/20/2013
+ * mark.css
+ */
+a:hover {
+  text-decoration: none;
+}
 
 body {
   background: url(../img/background.png) repeat;
